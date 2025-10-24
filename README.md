@@ -1,2 +1,2 @@
 # HuntedGame
-Survival 2D game
+2D Survival game
